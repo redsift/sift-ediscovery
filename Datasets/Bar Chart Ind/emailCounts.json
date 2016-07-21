@@ -1,0 +1,116 @@
+[
+  {
+    "sender": "jeff.dasovich@enron.com",
+    "name": "Jeff",
+    "lastName": "Dasovich",
+    "value": 2119
+  },
+  {
+    "sender": "james.d.steffes@enron.com",
+    "name": "James",
+    "lastName": "Steffes",
+    "value": 1196
+  },
+  {
+    "sender": "j.kaminski@enron.com",
+    "name": "Vince",
+    "lastName": "Kaminski",
+    "value": 1057
+  },
+  {
+    "sender": "kay.mann@enron.com",
+    "name": "Kay",
+    "lastName": "Mann",
+    "value": 814
+  },
+  {
+    "sender": "steven.j.kean@enron.com",
+    "name": "Steven",
+    "lastName": "Kean",
+    "value": 705
+  },
+  {
+    "sender": "sara.shackleton@enron.com",
+    "name": "Sara",
+    "lastName": "Shackleton",
+    "value": 579
+  },
+  {
+    "sender": "lynn.blair@enron.com",
+    "name": "Lynn",
+    "lastName": "Blair",
+    "value": 538
+  },
+  {
+    "sender": "sally.beck@enron.com",
+    "name": "Sally",
+    "lastName": "Beck",
+    "value": 525
+  },
+  {
+    "sender": "richard.b.sanders@enron.com",
+    "name": "Richard",
+    "lastName": "Sanders",
+    "value": 461
+  },
+  {
+    "sender": "matthew.lenhart@enron.com",
+    "name": "Matthew",
+    "lastName": "Lenhart",
+    "value": 382
+  },
+  {
+    "sender": "kimberly.watson@enron.com",
+    "name": "Kimberly",
+    "lastName": "Watson",
+    "value": 377
+  },
+  {
+    "sender": "kevin.m.presto@enron.com",
+    "name": "Kevin",
+    "lastName": "Presto",
+    "value": 334
+  },
+  {
+    "sender": "richard.shapiro@enron.com",
+    "name": "Richard",
+    "lastName": "Shapiro",
+    "value": 333
+  },
+  {
+    "sender": "tana.jones@enron.com",
+    "name": "Tana",
+    "lastName": "Jones",
+    "value": 331
+  },
+  {
+    "sender": "louise.kitchen@enron.com",
+    "name": "Louise",
+    "lastName": "Kitchen",
+    "value": 325
+  },
+  {
+    "sender": "james.derrick@enron.com",
+    "name": "James",
+    "lastName": "Derrick",
+    "value": 321
+  },
+  {
+    "sender": "rod.hayslett@enron.com",
+    "name": "Rod",
+    "lastName": "Hayslett",
+    "value": 297
+  },
+  {
+    "sender": "gerald.nemec@enron.com",
+    "name": "Gerald",
+    "lastName": "Nemec",
+    "value": 296
+  },
+  {
+    "sender": "jeffrey.a.shankman@enron.com",
+    "name": "Jeffrey",
+    "lastName": "Shankman",
+    "value": 284
+  }
+]

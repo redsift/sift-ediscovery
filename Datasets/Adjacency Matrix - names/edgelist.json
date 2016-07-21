@@ -1,0 +1,502 @@
+[
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 491
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 1967
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 2
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 1396
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 719
+  },
+  {
+    "source": "jeff.dasovich@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 660
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 13
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 4
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 385
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 156
+  },
+  {
+    "source": "james.d.steffes@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 2
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 3821
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 10
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 13
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "j.kaminski@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 3
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 160
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 23
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 23
+  },
+  {
+    "source": "kay.mann@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 300
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 250
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 11
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 114
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 1
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 37
+  },
+  {
+    "source": "steven.j.kean@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 12
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 10
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 11
+  },
+  {
+    "source": "sara.shackleton@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 625
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "lynn.blair@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 8
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 12
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 18
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "sally.beck@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 25
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 34
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 2
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 5
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 41
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 3
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 103
+  },
+  {
+    "source": "richard.b.sanders@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "jeff.dasovich@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "james.d.steffes@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "j.kaminski@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "kay.mann@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "steven.j.kean@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "sara.shackleton@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "lynn.blair@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "sally.beck@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "richard.b.sanders@enron.com",
+    "weight": 0
+  },
+  {
+    "source": "matthew.lenhart@enron.com",
+    "target": "matthew.lenhart@enron.com",
+    "weight": 261
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Sun",
+    "value": 4311
+  },
+  {
+    "name": "Mon",
+    "value": 31656
+  },
+  {
+    "name": "Tue",
+    "value": 32333
+  },
+  {
+    "name": "Wed",
+    "value": 31174
+  },
+  {
+    "name": "Thu",
+    "value": 28834
+  },
+  {
+    "name": "Fri",
+    "value": 25773
+  },
+  {
+    "name": "Sat",
+    "value": 2239
+  }
+]

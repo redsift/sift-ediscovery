@@ -1,0 +1,52 @@
+[
+  {
+    "id": "jeff.dasovich@enron.com",
+    "sent": 491,
+    "received": 240
+  },
+  {
+    "id": "james.d.steffes@enron.com",
+    "sent": 1967,
+    "received": 582
+  },
+  {
+    "id": "j.kaminski@enron.com",
+    "sent": 223,
+    "received": 187
+  },
+  {
+    "id": "kay.mann@enron.com",
+    "sent": 432,
+    "received": 523
+  },
+  {
+    "id": "steven.j.kean@enron.com",
+    "sent": 396,
+    "received": 299
+  },
+  {
+    "id": "sara.shackleton@enron.com",
+    "sent": 426,
+    "received": 327
+  },
+  {
+    "id": "lynn.blair@enron.com",
+    "sent": 821,
+    "received": 367
+  },
+  {
+    "id": "sally.beck@enron.com",
+    "sent": 422,
+    "received": 346
+  },
+  {
+    "id": "richard.b.sanders@enron.com",
+    "sent": 719,
+    "received": 615
+  },
+  {
+    "id": "matthew.lenhart@enron.com",
+    "sent": 286,
+    "received": 254
+  }
+]

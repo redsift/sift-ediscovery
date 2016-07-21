@@ -1,0 +1,10 @@
+letter	frequency
+Acc	.08167
+Case	.02780
+Enron	.04253
+Fraud	.12702
+Legal	.02288
+Money	.02022
+Tenure	.06094
+UV	.06973
+Zi	.00153
