@@ -8,7 +8,7 @@
   "image": "https://static.redsift.io/assets/sifts/template/template.jpg",
   "interfaces": {
     "summary": {
-      "controller": "js/controller.umd-es2015.js"
+      "controller": "dist/js/controller.umd-es2015.js"
     }
   },
   "dag": {
