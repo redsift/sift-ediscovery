@@ -7,11 +7,6 @@
   "color": "#842F59",
   "image": "https://static.redsift.io/assets/sifts/template/template.jpg",
   "interfaces": {
-    "email": {
-      "thread" : {
-        "controller": "js/controller.umd-es2015.js"
-      }
-    },
     "summary": {
       "controller": "js/controller.umd-es2015.js"
     }
