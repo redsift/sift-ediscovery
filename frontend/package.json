@@ -1,15 +1,33 @@
 {
   "name": "sift-ediscovery",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Development setup",
+  "main": "bundle.config.js",
   "scripts": {
     "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "@redsift/sift-sdk-web": "^0.3.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redsift/sift-taxi.git"
   },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redsift/sift-ediscovery/issues"
+  },
+  "homepage": "https://github.com/Redsift/sift-ediscovery#readme",
+  "dependencies": {},
   "devDependencies": {
-    "@redsift/redsift-bundler": "^0.2.1"
+    "moment": "2.14.1",
+    "d3-selection": "1.0.0",
+    "d3-transition": "1.0.0",
+    "@redsift/ui-rs-core": "0.1.15",
+    "@redsift/ui-rs-hero": "0.1.3",
+    "@redsift/d3-rs-lines": "0.1.2",
+    "@redsift/d3-rs-pies": "0.0.2",
+    "@redsift/d3-rs-theme": "0.1.0",
+    "@redsift/sift-sdk-web": "../../../sift-sdk-web",
+    "@redsift/redsift-bundler": "0.3.3"
   }
 }

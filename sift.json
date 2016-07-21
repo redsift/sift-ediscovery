@@ -1,6 +1,6 @@
 {
   "name": "sift-ediscovery",
-  "display-name": "Sift Ediscovery",
+  "display-name": "E-Discovery",
   "description": "",
   "author": "",
   "version": "1.0.0",
@@ -17,64 +17,13 @@
     }
   },
   "dag": {
-    "inputs":{
-      "emails":{
-        "gmailEmails":{
-          "filter":{
-            "conditions":[{
-              "from":{
-                "regexp": {
-                  "pattern": ".*@gmail\\.com",
-                  "flags": "i"
-                }
-              }
-            },{
-              "date": "between now and 1 week before now"
-            }],
-            "wants": [
-              "archive"
-            ],
-            "operator": "AND"
-          }
-        }
+    "inputs": {},
+    "nodes": [],
+    "outputs": {
+      "exports": {
       }
     },
-    "nodes":[{
-      "#": "Map",
-      "implementation": {
-        "javascript": "server/map.js"
-      },
-      "input": {
-          "bucket": "gmailEmails"
-      },
-      "outputs": {
-          "messages": {}
-      }
-    },
-    {
-      "#": "Reduce",
-      "implementation": {
-        "javascript": "server/reduce.js"
-      },
-      "input": {
-          "bucket": "messages",
-          "select": "*"
-      },
-      "outputs": {
-          "count": {}
-      }
-    }],
-    "stores":{
-      "messages" : {
-        "key$schema":"string"
-      }
-    },
-    "outputs":{
-      "exports":{
-        "count" : {
-          "key$schema":"string"
-        }
-      }
+    "stores": {
     }
   }
 }

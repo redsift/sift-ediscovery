@@ -14,15 +14,9 @@ gulp.task('build', ['bundle-js', 'bundle-css'], function(cb) {
   RSBundler.printBundleSummary(bundleConfig);
 });
 
-gulp.task('copy-html', function() {
-  gulp.src(path.join('./src', '*.html'))
-    .pipe(gulp.dest('./public'));
-});
-
 gulp.task('serve', function() {
   gulp.watch(['./src/scripts/**/*.js'], ['bundle-js']);
-  gulp.watch(['./src/styles/**/*.css'], ['bundle-css']);
-  gulp.watch(['./src/*.html'], ['copy-html']);
+  gulp.watch(['./src/styles/**/*.css', './src/styles/**/*.styl'], ['bundle-css']);
 });
 
-gulp.task('default', [ 'build', 'copy-html', 'serve' ]);
+gulp.task('default', [ 'build', 'serve' ]);

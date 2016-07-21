@@ -1,11 +1,11 @@
 var paths = {
-  dest: './public'
+  dest: './public/dist'
 }
 
 var defaultConfig = {
   formats: ['es6', 'umd'],
   outputFolder: paths.dest,
-  moduleNameJS: 'SiftTaxi',
+  moduleNameJS: 'SiftEDiscovery',
   mapsDest: '.',
   externalMappings: {},
   useNormalizeCSS: true
@@ -18,7 +18,7 @@ var viewConfig = {
   },
   styles: [{
     name: 'style',
-    indexFile: './src/styles/style.css'
+    indexFile: './src/styles/style.styl'
   }]
 };
 
@@ -29,9 +29,17 @@ var controllerConfig = {
   }
 };
 
+var emailClientControllerConfig = {
+  mainJS: {
+    name: 'email-client-controller',
+    indexFile: './src/scripts/email-client-controller.js'
+  }
+};
+
 var bundles = [
   merge(defaultConfig, viewConfig),
-  merge(defaultConfig, controllerConfig)
+  merge(defaultConfig, controllerConfig),
+  merge(defaultConfig, emailClientControllerConfig)
 ];
 
 module.exports = bundles;

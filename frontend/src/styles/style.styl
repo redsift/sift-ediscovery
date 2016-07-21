@@ -1,0 +1,131 @@
+@import 'vendor/@redsift/ui-rs-hero.css'
+@import 'vendor/@redsift/ui-rs-core.css'
+
+.-bg-taxi
+  background-image: url('https://static.redsift.io/assets/sifts/sift-taxi/hero.jpg')
+  background-color: rgb(42, 24, 22)
+  background-image: -webkit-image-set(
+    url('https://static.redsift.io/assets/sifts/sift-taxi/hero.jpg') 1x,
+    url('https://static.redsift.io/assets/sifts/sift-taxi/hero-2x.jpg') 2x
+  )
+
+.hero-sticky-header--active
+  box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.15)
+  background-image: url('https://static.redsift.io/assets/sifts/sift-taxi/hero.jpg')
+  background-image: -webkit-image-set(
+    url('https://static.redsift.io/assets/sifts/sift-taxi/hero.jpg') 1x,
+    url('https://static.redsift.io/assets/sifts/sift-taxi/hero-2x.jpg') 2x
+  )
+
+.container
+  padding: 16px
+  background-color: white
+  min-width: 500px
+
+.centered
+  display: flex
+  justify-content: center
+
+.sectionheader
+  border-top: 1px solid #e0e0e0
+  margin-top: 10px
+  padding-top: 10px
+
+.sectionheader.first
+  border-top: none
+  margin-top: 0px
+  padding-top: 0px
+
+.sectiontitle
+  display: inline-block
+  color: #81b6e0
+
+.sectionsubtitle
+  display: inline-block
+  font-size: 12px
+
+.stats__container
+  display: flex
+  align-content: center
+  justify-content: center
+  padding-bottom: 16px
+
+.stat
+  display: flex
+  align-content: center
+  justify-content: center
+  align-items: center
+  border-right: 1px solid #e0e0e0
+  height: 100px
+  width: 33%
+  box-sizing: border-box
+
+.statnum
+  display: inline-block
+  margin-right: 6px
+  font-size: 42px
+
+.statdesc
+  display: inline-block
+  font-size: 12px
+
+.stat.last
+  border-right: none
+
+.chart-pies text
+  font-size: 12px
+
+.currency__selector
+  display: flex
+  align-content: center
+  justify-content: center
+
+/*
+* Toggle radio button
+*/
+input[type=radio]
+  display: none
+
+input[type=radio] + label
+  display: inline-block
+  margin: -2px
+  padding: 1px 16px
+  margin-bottom: 0
+  font-size: 11px
+  font-family: Electrolize,sans-serif
+  font-weight: 400
+  line-height: 20px
+  color: #7F7F7F
+  text-align: center
+  vertical-align: middle
+  cursor: pointer
+
+input[type=radio]:checked + label
+  color: #81b6e0
+  text-decoration: underline;
+
+@media screen and (max-width: 470px)
+  .hero-sticky-header
+    display: none
+
+  .hero
+    display: none
+
+  .statnum
+    font-size: 21px
+
+  .statdesc
+    font-size: 10px
+
+  .content
+    padding: 0px
+
+  .container
+    padding: 4px
+    min-width: 200px
+
+  .sectionheader.first
+    padding-top: 4px
+
+  .sectionheader
+    padding-left: 4px
