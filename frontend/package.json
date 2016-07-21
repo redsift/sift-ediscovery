@@ -1,0 +1,15 @@
+{
+  "name": "sift-ediscovery",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@redsift/sift-sdk-web": "^0.3.1"
+  },
+  "devDependencies": {
+    "@redsift/redsift-bundler": "^0.2.1"
+  }
+}
